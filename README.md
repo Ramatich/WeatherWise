@@ -12,7 +12,7 @@ User-friendly display ensures a clear and intuitive understanding of weather con
 Get started by cloning the repository:
 
 
-git clone https://github.com/rock-and-code/Clima.git
+[git clone https://github.com/rock-and-code/Clima.git](https://github.com/Ramatich/WeatherWise.git)
 Open the project in your preferred Integrated Development Environment (IDE). For weather forecasts by zipcode, insert your OpenWeatherAPI Key at line 107 within the WeatherController.java file.
 
 Subscribe to the OpenWeather API at OpenWeather Subscription.
